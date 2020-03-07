@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-
+// Tablero contra PC
 public class tablerom3j1 extends javax.swing.JFrame {
     private ArrayList<JPanel> Panels; 
     boolean player = true;
